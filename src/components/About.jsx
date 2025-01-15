@@ -3,7 +3,7 @@ import '../App.css';
 import { services } from '../constants';
 import ButtonLink from './ButtonLink';
 import Footer from './Footer';
-import Resume from '../assets/Ritesh_Resume.pdf'
+import Resume from '../assets/ritesh-resume-.pdf'
 
 const ServiceCard = ({ service }) => (
   <div className='sm:w-[250px] w-full'>
